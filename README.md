@@ -1,0 +1,1 @@
+Outputs pascal's triangle
